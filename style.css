@@ -1,0 +1,19 @@
+form {
+    line-height: 25px;
+}
+
+h1 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 4em;
+}
+
+.overlay {
+    width: 80%;
+    min-width: 30%;
+    margin: 3% auto;
+    display: block;
+    padding: 2%;
+    height: 90vh;
+    border-radius: 20px;
+    text-align: center;
+}
